@@ -1,2 +1,2 @@
 # Students-Database
-A database created for more convenient organization of student parties
+База данных, созданная для более удобной организации тусовок для студентов НИУ ВШЭ, МФТИ, МГУ, МГИМО
